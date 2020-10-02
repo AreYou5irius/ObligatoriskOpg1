@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruger\\OneDrive\\Skrivebord\\obligatorisk opg\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj": {}
+    "C:\\Users\\Bruger\\Source\\Repos\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruger\\OneDrive\\Skrivebord\\obligatorisk opg\\FanLibrary\\FanLibrary\\FanLibrary.csproj": {
+    "C:\\Users\\Bruger\\Source\\Repos\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruger\\OneDrive\\Skrivebord\\obligatorisk opg\\FanLibrary\\FanLibrary\\FanLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Bruger\\Source\\Repos\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj",
         "projectName": "FanLibrary",
-        "projectPath": "C:\\Users\\Bruger\\OneDrive\\Skrivebord\\obligatorisk opg\\FanLibrary\\FanLibrary\\FanLibrary.csproj",
+        "projectPath": "C:\\Users\\Bruger\\Source\\Repos\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj",
         "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruger\\OneDrive\\Skrivebord\\obligatorisk opg\\FanLibrary\\FanLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Bruger\\Source\\Repos\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\Bruger\\OneDrive\\Skrivebord\\obligatorisk opg\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj": {
+    "C:\\Users\\Bruger\\Source\\Repos\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruger\\OneDrive\\Skrivebord\\obligatorisk opg\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\Bruger\\Source\\Repos\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj",
         "projectName": "FanOutputUnitTest",
-        "projectPath": "C:\\Users\\Bruger\\OneDrive\\Skrivebord\\obligatorisk opg\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj",
+        "projectPath": "C:\\Users\\Bruger\\Source\\Repos\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj",
         "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruger\\OneDrive\\Skrivebord\\obligatorisk opg\\FanLibrary\\FanOutputUnitTest\\obj\\",
+        "outputPath": "C:\\Users\\Bruger\\Source\\Repos\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -87,8 +87,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Bruger\\OneDrive\\Skrivebord\\obligatorisk opg\\FanLibrary\\FanLibrary\\FanLibrary.csproj": {
-                "projectPath": "C:\\Users\\Bruger\\OneDrive\\Skrivebord\\obligatorisk opg\\FanLibrary\\FanLibrary\\FanLibrary.csproj"
+              "C:\\Users\\Bruger\\Source\\Repos\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj": {
+                "projectPath": "C:\\Users\\Bruger\\Source\\Repos\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj"
               }
             }
           }

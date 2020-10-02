@@ -7,7 +7,9 @@ namespace FanOutputUnitTest
     [TestClass]
     public class UnitTest1
     {
+
         private FanOutput fan;
+
 
         [TestInitialize]
         public void SetupFanOutput()
@@ -67,14 +69,22 @@ namespace FanOutputUnitTest
             fan.Temp = 25;
             Assert.AreEqual(25, fan.Temp);
 
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(ArgumentOutOfRangeException))]
+        public void TestForHøjTemp()
+        {
+            fan.Temp = 29;
 
         }
 
         [TestMethod]
         [ExpectedException(typeof(ArgumentOutOfRangeException))]
-        public void TestUlovligTemp()
+        public void TestForLavTemp()
         {
-            fan.Temp = 29;
+            fan.Temp = 12;
+
         }
 
 
@@ -96,11 +106,17 @@ namespace FanOutputUnitTest
 
         [TestMethod]
         [ExpectedException(typeof(ArgumentOutOfRangeException))]
-        public void TestUlovligFugt()
+        public void TestForHøjFugt()
         {
             fan.Fugt = 81;
         }
 
+        [TestMethod]
+        [ExpectedException(typeof(ArgumentOutOfRangeException))]
+        public void TestForLavFugt()
+        {
+            fan.Fugt = 24;
+        }
 
     }
 }

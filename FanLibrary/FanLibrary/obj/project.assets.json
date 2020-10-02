@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\OneDrive\\Skrivebord\\obligatorisk opg\\FanLibrary\\FanLibrary\\FanLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Bruger\\Source\\Repos\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj",
       "projectName": "FanLibrary",
-      "projectPath": "C:\\Users\\Bruger\\OneDrive\\Skrivebord\\obligatorisk opg\\FanLibrary\\FanLibrary\\FanLibrary.csproj",
+      "projectPath": "C:\\Users\\Bruger\\Source\\Repos\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\OneDrive\\Skrivebord\\obligatorisk opg\\FanLibrary\\FanLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Bruger\\Source\\Repos\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -7,3 +7,12 @@ C:\Users\Bruger\OneDrive\Skrivebord\obligatorisk opg\FanLibrary\FanLibrary\obj\D
 C:\Users\Bruger\OneDrive\Skrivebord\obligatorisk opg\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Bruger\OneDrive\Skrivebord\obligatorisk opg\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.dll
 C:\Users\Bruger\OneDrive\Skrivebord\obligatorisk opg\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.pdb
+C:\Users\Bruger\Source\Repos\ObligatoriskOpg1\FanLibrary\FanLibrary\bin\Debug\netcoreapp3.1\FanLibrary.deps.json
+C:\Users\Bruger\Source\Repos\ObligatoriskOpg1\FanLibrary\FanLibrary\bin\Debug\netcoreapp3.1\FanLibrary.dll
+C:\Users\Bruger\Source\Repos\ObligatoriskOpg1\FanLibrary\FanLibrary\bin\Debug\netcoreapp3.1\FanLibrary.pdb
+C:\Users\Bruger\Source\Repos\ObligatoriskOpg1\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.csprojAssemblyReference.cache
+C:\Users\Bruger\Source\Repos\ObligatoriskOpg1\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.AssemblyInfoInputs.cache
+C:\Users\Bruger\Source\Repos\ObligatoriskOpg1\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.AssemblyInfo.cs
+C:\Users\Bruger\Source\Repos\ObligatoriskOpg1\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Source\Repos\ObligatoriskOpg1\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.dll
+C:\Users\Bruger\Source\Repos\ObligatoriskOpg1\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.pdb

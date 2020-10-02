@@ -1,4 +1,5 @@
 ﻿using System;
+using Microsoft.VisualBasic;
 
 namespace FanLibrary
 {
@@ -69,20 +70,30 @@ namespace FanLibrary
         //Temp et tal mellem 15 og 25 (målt i grader celsius, 15 <= Temp <= 25) 
         public void CheckTemp(double temp)
         {
-            if (temp < 15 || temp > 25)
+            if (temp < 15)
             {
-                throw new ArgumentOutOfRangeException("temp", temp, "temp er ikke indefor godkendt område");
+                throw new ArgumentOutOfRangeException("temp", temp, "Temperaturen er for lav");
 
+            }
+
+            if (temp > 25)
+            {
+                throw new ArgumentOutOfRangeException("temp", temp, "Temperaturen ErrObject for høj");
             }
         }
 
         //Fugt et tal mellem 30 og 80 (relativ fugtighed, 30 <= Fugt <= 80)
         public void CheckFugt(double fugt)
         {
-            if (fugt < 30 || fugt > 80)
+            if (fugt < 30)
             {
-                throw new ArgumentOutOfRangeException("fugt", fugt, "fugt er ikke indefor godkendt område");
+                throw new ArgumentOutOfRangeException("fugt", fugt, "for lav fugtighed");
 
+            }
+
+            if (fugt > 80)
+            {
+                throw new ArgumentOutOfRangeException("fugt", fugt, "for høj fugtighed");
             }
         }
     }
