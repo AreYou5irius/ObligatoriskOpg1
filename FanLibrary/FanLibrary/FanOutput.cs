@@ -50,6 +50,8 @@ namespace FanLibrary
             }
         }
 
+
+        //id skal være et tal
         public void CheckId(int id)
         {
             if (id < 1)
