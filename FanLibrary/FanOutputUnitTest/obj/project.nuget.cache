@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nuhVcEyZ2MeA3vPVN3bcwQXPMu/glRJcmpr0IKIrmLy9YRx3vrE6O/UK2kMBS4mGEGM+Lt0eoNrw6EJ2QIoTVg==",
+  "dgSpecHash": "YwaZurMrJ1Ri1tFjX+rUIXS6VRlBc0KegZW56UZNvu47QlyeO7QnwEmxaWGLovJHejLTQCW9Hk5JcY5fUUpckA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruger\\Source\\Repos\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\Bruger\\source\\repos\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruger\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
