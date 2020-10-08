@@ -68,14 +68,13 @@ namespace FanOutputUnitTest
 
             fan.Temp = 25;
             Assert.AreEqual(25, fan.Temp);
-
         }
 
         [TestMethod]
         [ExpectedException(typeof(ArgumentOutOfRangeException))]
         public void TestForHøjTemp()
         {
-            fan.Temp = 29;
+            fan.Temp = 26;
 
         }
 
@@ -83,9 +82,10 @@ namespace FanOutputUnitTest
         [ExpectedException(typeof(ArgumentOutOfRangeException))]
         public void TestForLavTemp()
         {
-            fan.Temp = 12;
+            fan.Temp = 14;
 
         }
+
 
 
 
@@ -115,7 +115,7 @@ namespace FanOutputUnitTest
         [ExpectedException(typeof(ArgumentOutOfRangeException))]
         public void TestForLavFugt()
         {
-            fan.Fugt = 24;
+            fan.Fugt = 29;
         }
 
     }

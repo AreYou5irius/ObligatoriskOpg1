@@ -80,7 +80,7 @@ namespace FanLibrary
 
             if (temp > 25)
             {
-                throw new ArgumentOutOfRangeException("temp", temp, "Temperaturen ErrObject for høj");
+                throw new ArgumentOutOfRangeException("temp", temp, "Temperaturen Er for høj");
             }
         }
 
