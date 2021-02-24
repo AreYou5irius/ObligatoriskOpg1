@@ -53,8 +53,12 @@ namespace FanOutputUnitTest
             catch (ArgumentException e)
             {
                 Assert.AreEqual("Navn skal være på 2 eller flere bogstaver", e.Message);
-
+                //hvis man bruger ArgumentOutOfRangeException
+                //stringAssert.contains(e.message, "text)" - fordi den excption der bliver smidt har en længere besked så derfor skal min message bare være en del af beskeden (derfor contains)
+                // det ville være en out of range der er passende i dette tilfælde
             }
+
+            //man kan lave flere try/catch i testCheckNavn hvis der er flere faktorer der skal testets
         }
 
         [TestMethod]

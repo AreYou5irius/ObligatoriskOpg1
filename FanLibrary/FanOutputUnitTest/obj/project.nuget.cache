@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YwaZurMrJ1Ri1tFjX+rUIXS6VRlBc0KegZW56UZNvu47QlyeO7QnwEmxaWGLovJHejLTQCW9Hk5JcY5fUUpckA==",
+  "dgSpecHash": "JtOAj2ZFQSiyoq5Cnj+S8mWeiTJptjjbpLhs7A1rrl+T5ea/2XdLKp7uB9U2SBerxtWG5nBjBT1k466VxrRLhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruger\\source\\repos\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj",
+  "projectFilePath": "D:\\Datamatiker\\Datamatiker 3 sem\\EksamenTEKPRO\\ObligatoriskOpg3sem - tek-prog\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruger\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

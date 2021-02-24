@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruger\\source\\repos\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj": {}
+    "D:\\Datamatiker\\Datamatiker 3 sem\\EksamenTEKPRO\\ObligatoriskOpg3sem - tek-prog\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruger\\source\\repos\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj": {
+    "D:\\Datamatiker\\Datamatiker 3 sem\\EksamenTEKPRO\\ObligatoriskOpg3sem - tek-prog\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruger\\source\\repos\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj",
+        "projectUniqueName": "D:\\Datamatiker\\Datamatiker 3 sem\\EksamenTEKPRO\\ObligatoriskOpg3sem - tek-prog\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj",
         "projectName": "FanLibrary",
-        "projectPath": "C:\\Users\\Bruger\\source\\repos\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj",
+        "projectPath": "D:\\Datamatiker\\Datamatiker 3 sem\\EksamenTEKPRO\\ObligatoriskOpg3sem - tek-prog\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj",
         "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruger\\source\\repos\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\obj\\",
+        "outputPath": "D:\\Datamatiker\\Datamatiker 3 sem\\EksamenTEKPRO\\ObligatoriskOpg3sem - tek-prog\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -56,18 +58,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Bruger\\source\\repos\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj": {
+    "D:\\Datamatiker\\Datamatiker 3 sem\\EksamenTEKPRO\\ObligatoriskOpg3sem - tek-prog\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruger\\source\\repos\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj",
+        "projectUniqueName": "D:\\Datamatiker\\Datamatiker 3 sem\\EksamenTEKPRO\\ObligatoriskOpg3sem - tek-prog\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj",
         "projectName": "FanOutputUnitTest",
-        "projectPath": "C:\\Users\\Bruger\\source\\repos\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj",
+        "projectPath": "D:\\Datamatiker\\Datamatiker 3 sem\\EksamenTEKPRO\\ObligatoriskOpg3sem - tek-prog\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\FanOutputUnitTest.csproj",
         "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruger\\source\\repos\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\obj\\",
+        "outputPath": "D:\\Datamatiker\\Datamatiker 3 sem\\EksamenTEKPRO\\ObligatoriskOpg3sem - tek-prog\\ObligatoriskOpg1\\FanLibrary\\FanOutputUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -86,9 +88,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Bruger\\source\\repos\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj": {
-                "projectPath": "C:\\Users\\Bruger\\source\\repos\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj"
+              "D:\\Datamatiker\\Datamatiker 3 sem\\EksamenTEKPRO\\ObligatoriskOpg3sem - tek-prog\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj": {
+                "projectPath": "D:\\Datamatiker\\Datamatiker 3 sem\\EksamenTEKPRO\\ObligatoriskOpg3sem - tek-prog\\ObligatoriskOpg1\\FanLibrary\\FanLibrary\\FanLibrary.csproj"
               }
             }
           }
@@ -101,6 +104,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
@@ -134,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
